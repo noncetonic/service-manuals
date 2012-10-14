@@ -1,0 +1,44 @@
+Current Vendors - Cold Drink - Service
+
+Model	 Common Name	 Description	 Manual Type	 Manual P/N
+3551	Water Vendor	Water Vendor Service Manual	Service	4218438_B
+3505A	CB300 SAT - G1	6 Selection can & bottle satellite drink vendor for GVC - 230V	Service	4215155b
+3505	CB300 SAT - G1	6 Selection can & bottle satellite drink vendor for GVC	Service	4215155b
+3502A	CB700 - G1	12 Selection can & bottle drink vendor w/ GVC controller - 230V	Service	4215422b
+3502	CB700 - G1	12 Selection can & bottle drink vendor w/ GVC controller	Service	4215422b
+3500A	CB500	10 Selection can & bottle drink vendor w/ GVC conrtoller - 230V	Service	4214690b
+3500	CB500	10 Selection can & bottle drink vendor w/ GVC conrtoller	Service	4214690b
+3196	CB300 SAT	6 Selection can & bottle satellite drink vendor	Service	4212497c
+3189A	CB500	10 Selection can & bottle drink vendor w/ MCB12 controller - 230V	Service	4213392b
+3189	CB500	10 Selection can & bottle drink vendor w/ MCB12 controller	Service	4213392b
+3179A	CB300 SA	6 Selection can & bottle drink vendor w/ MCB12 controller - 230V	Service	4212378d
+3179	CB300 SA	6 Selection can & bottle drink vendor w/ MCB12 controller	Service	4212378d
+3172A	CB300 SAT	6 Selection can & bottle satellite drink vendor	Service	4212497c
+3172	CB300 SAT	6 Selection can & bottle satellite drink vendor	Service	4212497c
+3151	CB700	12 Selection can & bottle drink vendor w/ bottler controller	Service	4211254e
+Legacy Vendors - Cold Drink - Service
+
+Model	 Common Name	 Description	 Manual Type	 Manual P/N
+EC Series	CD-6 SAT	6 Selection can drink satellite vendor - EC series	Service	4208425
+CBV600	Vendo 721	Vendo can & bottle drink vendor w/ Merlin controller	Service	WV1126411
+3131	BV-IV USD(euro)	8 Selection can & bottle satellite drink vendor - USD addendum	Service	4209404
+3099	BV-1	8 Selection can & bottle satellite drink vendor	Service	4208379
+3089-A	CD 7-10	17 Selection can & bottle drink vendor - MDB	Service	4208417
+3082	Can Mart II	8 Selection can & bottle satellite drink vendor	Service	4206605
+3061	CD-6SA	6 Selection can drink vendor w/ CD-12 logic level controlle	Service	4203749
+3043-U	CD-6 USD (euro)	6 Selection can drink satellite vendor - USD interface	Service	4208277
+3040-MDB	Mini 8 - MDB	8 Selection can drink vendor - 68" w/ CD-16 MDB Controller	Service	4209105
+3038-MDB	CD-6 - MDB	6 Selection can drink vendor w/ CD-16 MDB Controller	Service	4209105
+3038	CD-6 SMIII	6 Selection can drink satellite vendor addendumfor SMIII controller	Service	4203249
+3038	CD-6 SAT	6 Selection can drink satellite vendor	Service	4202335a
+3037 - MDB	CD-8 / CD10 - MDB	8/10 Selection can drink vendor w/CD-16 MDB Controller	Service	4209105
+3037-10	CD-10	10 Selection can drink vendor w/ CD-16 logic level controller	Service	4202997
+3037-7	CD-7	7 Selection can drink vendor w/ CD-16 logic level controller	Service	4202997
+3037	CD-8	8 Selection can drink vendor w/ CD-16 logic level controller	Service	4202997
+3031	CD-6 SMII	6 Selection can drink satellite vendor for SMII controller	Service	4202335
+3016	CD-6 Can Mart	6 Selection can drink satellite vendor - horizontal display	Service	4201539
+3000	Mini Bank Drink	4 Selection can drink vendor	Service	4020871
+2085	CD 7/5	12 Selection can drink / juice vendor	Parts & Service	8620192
+2084	CD 7	7 Selection can drink vendor	Parts & Service	8620192
+2083	CJ-6 & CSCJ-6	6 Selection can juice vendor - single price / 4 price	Parts & Service	8602485
+2075	CD-250	5 Selection can drink vendor - single price / 4 price	Service	7250111-000

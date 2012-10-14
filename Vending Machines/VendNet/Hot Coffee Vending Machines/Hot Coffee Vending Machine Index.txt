@@ -1,0 +1,23 @@
+Current Vendors - Coffee - Service
+
+Model	Common Name	 Description	 Manual Type	 Manual P/N
+3211	 Geneva	GENEVA Bean To Cup • Service Manual	Service	4217356D
+3211	Geneva	 Geneva Bean To Cup • Operator Manual	Service	4214803F
+3206	 Geneva	GENEVA Freeze Dried • Service Manual	Service	4217356D
+3206	Geneva	GENEVA Freeze Dried • Operator Manual	Service	4214803F
+3205	Hot Beverage	 Fresh Brew • Setup Instructions	Service	4214914b
+3205	 Geneva	GENEVA Fresh Brew • Service Manual	Service	4217356D
+3205	Geneva	GENEVA Fresh Brew • Operator Manual	Service	4214803F
+Legacy Vendors - Coffee - Service
+
+Model	Common Name	 Description	 Manual Type	 Manual P/N
+3178	HBA 14	Hot Beverage Vending Machine	Service	4211416f
+3156	HBA 12	Hot Beverage Vending Machine	Service	4211416f
+3002	HBA	Hot Beverage Center	Service	4020877
+2072T	Coffee Vendor	Coffee Vendor Service Manual	Service	4020760
+2003A	Coffee Vendor	Coffee Vendor Service Manual	Service	Coffee Vendor
+HBA 11A	HBA 11A	Hot Beverage Vending Machine	Service	4202686b
+HBA 11	HBA 11	Hot Beverage Vending Machine	Service	4202686b
+HBA 10A	HBA 10A	Hot Beverage Vending Machine	Service	4202686b
+HBA 10	HBA 10	Hot Beverage Vending Machine	Service	4202686b
+Various	Various	Safety Manual & Installation Guidelines (English, Spanish, French)	Service	4206816c

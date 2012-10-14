@@ -1,0 +1,38 @@
+Current Vendors - Combination - Service
+
+Model	Common Name	Description	Manual Type	Manual P/N
+3563	Elevator ADA ST/VT	Alpine Elevator 5-Wide ADA ST/VT	Service	4220092D
+3563A	Elevator ADA ST/VT	Alpine Elevator 5-Wide ADA ST/VT	Service	4220092D
+3561	Elevator ADA ST/VT	Alpine Elevator 5-Wide ADA ST/VT	Service	4220092D
+3561A	Elevator ADA ST/VT	Alpine Elevator 5-Wide ADA ST/VT	Service	4220092D
+3557	Alpine Elevator	Alpine Elevator - Service	Service	 4219985 B
+3557	Alpine Elevator	Alpine Elevator - Programming	Service	 4219994
+3548	Combo Vendor	Generic Combo Vendor	Service	 4217818.001b
+3534	Combo II	Combo II GVC2	Service	4216441a
+3521A	ST/VT	Variable Temp Glass front Vendor w/GVC2 controller	Service	4215378b
+3521	ST/VT	Variable Temp Glass front Vendor w/GVC2 controller	Service	4215378b
+3521 Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3521A Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3520	ST/VT	Variable Temp Glass front Vendor w/GVC2 controller	Service	4215378b
+3520 Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3520A Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3517	ST/VT	Variable Temp Glass front Vendor w/GVC2 controller	Service	4215378b
+3517 Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3517A Type2	Alpine II REV A	Alpine II REV A	Service	4218736
+3516	Combo II	Combo II GVC2	Service	4216441a
+3505A	GVC1 Host	Can/Bottle & Can Drink Satellite Vending Machine GVC1 Host	Service	4215155b
+3505	GVC1 Host	Can/Bottle & Can Drink Satellite Vending Machine GVC1 Host	Service	4215155b
+3208A	SZF/DZF	SZF/DZF Variable Temp Glass Front Vending Machine	Service	4214792d
+3208	SZF/DZF	SZF/DZF Variable Temp Glass Front Vending Machine	Service	4214792d
+3207A	SZF/DZF	SZF/DZF Variable Temp Glass Front Vending Machine	Service	4214792d
+3207	SZF/DZF	SZF/DZF Variable Temp Glass Front Vending Machine	Service	4214792d
+3195A	Dual Zone Snack	Dual Zone Snack	Service	4213674.001b
+3195	Dual Zone Snack	Dual Zone Snack	Service	4213674.001b
+3155B	Combo II	Combo II Snack/Beverage Vending Machine	Service	4214196b
+3155	Combo	Combo-3/6 Combination Snack/Beverage	Service	4211417e
+Legacy Vendors - Combination - Service
+
+Model	Common Name	Description	Manual Type	Manual P/N
+2087E	CD 5/4	CD 5/4 electronic soda/juice service manual	Service	4020839
+various	various	Safety Manual & Installation Guidelines
+(English, Spanish, French)	Service	4206816c

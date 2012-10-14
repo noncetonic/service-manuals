@@ -1,0 +1,138 @@
+3549	Table Top Snack Vendor	Table top vendor - electronic - GVC1 controller	Service	4217773a
+3538(WS4000)	WS series snack	WS series snack vendor w/ GVC 2	Service	4216320
+3537(WS3000)	WS series snack	WS series snack vendor w/ GVC 2	Service	4216320
+3536(WS7000)	WS series snack	WS series snack vendor w/ GVC 2	Service	4216320
+3535(WS5000)	WS series snack	WS series snack vendor w/ GVC 2	Service	4216320
+3510 / 3510A	HR 32 G2	Round front snack w/ GVC2 32 selection	Service	4215508c
+3509 / 3509A	HR40 G2	Round front snack w/ GVC2 40 selection	Service	4215508c
+3508 / 3508A	GF35 G1	GF series snack vendor 35 selection	Service	4215330
+3507 / 3507A	GF19 G1	GF series snack vendor 19 selection	Service	4215330
+3506 / 3506A	GF12 G1	GF series snack vendor 12/25 selection	Service	4215330
+3504 / 3504A	HR32 G1	Round front snack w/ GVC1 32 selection	Service	4214709d
+3503 / 3503A	HR23 G1	Round front snack w/ GVC1 23 selection	Service	4214709d
+3208/
+3208A	SZF/DZF	SZF/DZF
+Variable Temp Glass Front Vending Machine	Service	4214792d
+3207/
+3207A	SZF/DZF	SZF/DZF
+Variable Temp Glass Front Vending Machine	Service	4214792d
+3195/
+3195A	Dual Zone	Dual Zone Snack	Service	4213674.001b
+3155B	Combo II	Combo II Snack/Beverage Vending Machine	Service	4214196b
+3187	SC100 Tower	SC100 satellite controller - SM6 Controller	Parts/Service	4212875
+3181R	Manual Addendum	Snack w/ F80 Controller 67093-7 & later	Service	 4212859b
+3177	RSQF-2000-5-wide	Refrigerated square front snack SM6 - 230v	Service	4211968b
+3176	RSQF-2000-4-wide	Refrigerated square front snack SM6 - 230v	Service	4211968b
+3175	RSQF-2000-3-wide	Refrigerated square front snack SM6 - 230v	Service	4211968b
+3170 / 3170A	RRF - 6 / 5 wide	Round front snack ambient or refrigerated - SM6 Controller	Service	4212301e
+3169 / 3169A	RRF - 6 / 4 wide	Round front snack ambient or refrigerated - SM6 Controller	Service	4212301e
+3168 / 3168A	RRF - 6 / 3 wide	Round front snack ambient or refrigerated - SM6 Controller	Service	4212301e
+3160 / 3160A	SM5700	7 tray snack vendor	Service	4211415c
+3159	SM6 5 wide ADA	Snack Mart 6 ADA certified 5 wide	Service	4211051b
+3158	SM6 4 wide ADA	Snack Mart 6 ADA certified 4 wide	Service	4211051b
+3157	SM6 3 wide ADA	Snack Mart 6 ADA certified 3 wide	Service	4211051b
+3155	Combo	Combo-3/6 Combination Snack/Beverage	Service	4211417e
+3143	DX Series	Round Front DX series snack	Service	4209296b
+3142	DX Series	Round Front DX series snack	Service	4209296b
+3141	GF 35 II	GF series 35 sel snack - F80 controller	Service	4209514c
+3140	Outdoor series	Outdoor siteable / tackle / detail center	Service	4208808.002d
+3135 / 3135A	ARF - 5 wide	Ambient round front snack SMIV controller	Parts/Service	4209635
+3134 / 3134A	ARF - 4 wide	Ambient round front snack SMIV controller	Parts/Service	4209635
+3133 / 3133A	ARF - 3 wide	Ambient round front snack SMIV controller	Parts/Service	4209635
+3132	GF19 II	GF series 19 sel snack - F80 controller	Service	4209514c
+3130	Manual addendum	Snack w/ F80 Controller 67093-7 & later	Service	4212859b
+3130	Outdoor series	Outdoor siteable / tackle / detail center	Service	4208808.002d
+3129	Manual addendum	Snack w/ F80 Controller 67093-7 & later	Service	4212859b
+3129	HR 32	HR series 32 sel snack - F80 controller	Service	4208808.002d
+3123	EC 32 - 4 wide	Refrigerated glass front snack - F80 controller	Service	 4209026
+3120 / 3120A	GF12 II	GF series 12 sel snack - F80 controller	Service	4209514c
+3119R	EC 24 - 3 wide	Manual addendum w/ F80 Controller 67093-7 & later	Service	4212859b
+3119	EC 24 - 3 wide	Refrigerated glass front snack - F80 controller	Service	 4209026
+Legacy - Snack - Service
+
+Model	 Common Name	 Description	 Manual Type	 Manual P/N
+MTT-11	Table top vendor	Table top vendor - mechanical	Parts/Service	4210940
+3139	ECM mini	Snack - 230v - Versatile 80 selection controller	Service	4209706b
+3139	EC addendum	Snack - 230v - Versatile 80 selection controller	Service	4210386
+3138	ECM 5 wide	Snack - 230v - Versatile 80 selection controller	Service	4209706b
+3138	EC addendum	Snack - 230v - Versatile 80 selection controller	Service	4210386
+3137	ECM 4 wide	Snack - 230v - Versatile 80 selection controller	Service	4209706b
+3137	EC addendum	Snack - 230v - Versatile 80 selection controller	Service	4210386
+3136	ECM 3 wide	Snack - 230v - Versatile 80 selection controller	Service	4209706b
+3136	EC addendum	Snack - 230v - Versatile 80 selection controller	Service	4210386
+3117	RRF II - 5 wide	Refrigerated glass front snack - SMIV controller	Parts/Service	4208793c
+3116	RRF II - 4 wide	Refrigerated glass front snack - SMIV controller	Parts/Service	4208793c
+3115	RRF II - 3 wide	Refrigerated glass front snack - SMIV controller	Parts/Service	4208793c
+3114	PS 24 Pro series	Pro series trimmed front - F80 controller	Service	4208808.001b
+3114	PS 24 Pro series	Manual addendum w/ F80 Controller 67093-7 & later	Service	4212859b
+3108	RRF II - 5 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4208793c
+3107	RRF II - 4 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4208793c
+3106	RRF II - 3 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4208793c
+3100 - U	USD Mini snack	Snack satellite vendor - USD to SMIV interface	Service	4208285
+3091	Pro Series	Pro Series Glassfront Merchandiser	Service	4207485
+3087 - KK	Kit Kat	Closed front snack vendor	Service	4206656c
+3087	Closed front vendor	Closed front snack vendor	Service	4208091
+3085	DX Series	Round Front DX series snack	Service	4209296b
+3085	Horizon Snack	Snack - 4 wide - SMIII controller	Service	Horizon
+3084	DX Series	Round Front DX series snack	Service	4209296b
+3084	Horizon Snack	Snack - 3 wide - SMIII controller	Service	Horizon
+3077	GF-35	Glass front snack - 230v - SMIII controller	Service	4205387
+3077	GF-35	Glass front snack - 230v - SMII controller	Service	4202376b
+3076	GF-35	Glass front snack- SMIII controller	Service	4205387
+3076	GF-35	Glass front snack- SMII controller	Service	4202376b
+3075	RRF - 5 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3074	RRF - 4 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3073	RRF - 3 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3071	RRF - 5 wide	Ambient glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3070	RRF - 4 wide	Ambient glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3069	RRF - 3 wide	Ambient glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3068	RRF - 5 wide	Ambient glass front snack - SMIV controller	Parts/Service	4206368b
+3067	RRF - 4 wide	Ambient glass front snack - SMIV controller	Parts/Service	4206368b
+3066	RRF - 3 wide	Ambient glass front snack - SMIV controller	Parts/Service	4206368b
+3065	RRF - 5 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3064	RRF - 4 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3063	RRF - 3 wide	Refrigerated glass front snack - SMIV controller - 230v	Parts/Service	4206368b
+3054	Lance super vendor	4 wide snack w/ validator - Addendum for manual 4203642	Parts/Service	4203642.001
+3054	Lance super vendor	4 wide snack - MDB 80 selection controller S/N beginning 620000	Parts/Service	4210555
+3053	Lance super vendor	3 wide snack w/ validator - Addendum for manual 4203642	Parts/Service	4203642.001
+3053	Lance super vendor	3 wide snack - MDB 80 selection controller S/N beginning 820000	Parts/Service	4210555
+3051	GF-12	Glass front snack w/ CD-24 style controller	Service	4206346
+3046	GF-19	Glass front snack - 230v - SMII controller	Service	4202376b
+3046	GF-19	Glass front snack - 230v - addendum for SMIII controller	Service	4203175
+3045	GF-19	Glass front snack - 230v - SMII controller	Service	4202376b
+3045	GF-19	Glass front snack - 230v - addendum for SMIII controller	Service	4203175
+3044	GF-19	Glass front snack - 230v - SMII controller	Service	4202376b
+3044	GF-19	Glass front snack - 230v - addendum for SMIII controller	Service	4203175
+3039	GF-19	Glass front snack - 230v - SMII controller	Service	4202376b
+3039	GF-19	Glass front snack - 230v - addendum for SMIII controller	Service	4203175
+3030	GF-19	Glass front snack - 230v - SMII controller	Service	4202376
+3025A	Snack Mart IIIA	Snack - 5 wide - 230v - SMIII controller	Service	4202139
+3024A	Snack Mart IIIA	Snack - 4 wide - 230v - SMIII controller	Service	4202139
+3023A	Snack Mart IIIA	Snack - 3 wide - 230v - SMIII controller	Service	4202139
+3015A	Snack Mart IIIA	Snack - 5 wide - SMIII controller	Service	4202139
+3015	Snack Mart III	Snack - 5 wide - SMIII controller - refrigeration supplement	Service	4201852
+3015	Snack Mart III	Snack - 5 wide - SMIII controller	Service	4201217
+3014A	Snack Mart IIIA	Snack - 4 wide - SMIII controller	Service	4202139
+3014	Snack Mart III	Snack - 4 wide - SMIII controller - refrigeration supplement	Service	4201852
+3014	Snack Mart III	Snack - 4 wide - SMIII controller	Service	4201217
+3013A	Snack Mart IIIA	Snack - 3 wide - SMIII controller	Service	4202139
+3013	Snack Mart III	Snack - 3 wide - SMIII controller - refrigeration supplement	Service	4201852
+3013	Snack Mart III	Snack - 3 wide - SMIII controller	Service	4201217
+3004	Minibank snack	Glass front mini snack- SMII controller	Service	4201213
+3003 - MDB	Table top vendor	Table top vendor - electronic - MDB controller	Service	4208252b
+3003	Table top vendor	Table top snack - electronic - logic level controller	Service	4200090
+2099	Snack Mart II	Snack - 3 wide w/ SMII controller	Service	4020843
+2098	Snack Mart II	Snack - 4 wide w/ SMII controller	Service	4020843
+2097	Snack Mart II	Snack - 5 wide w/ SMII controller	Service	4020843
+2058	Lance Drop Shelf	Lance 7 column Drop Shelf	Part/Service	 4020619.3
+2051	15H Lance	Glass front snack vendor 15 selection electronic Coinco	Parts/Service	4020808
+2051	15H	Glass front snack vendor 15 selection electronic Mars or 4 price	Parts/Service	4020808
+2051	15H	Glass front snack vendor 15 selection - 4 price	Parts/Service	15 H & CSGF 15
+2043	20H	Glass front snack vendor 20 selection - 2 price or 4 price	Parts/Service	 4020492
+2042 / 2042A	30H	Glass front snack vendor 30 selection - 2 price or 4 price	Parts/Service	 4020492
+2042	30H	Glass front snack vendor 30 selection electronic Mars or 4 price	Parts/Service	4020808
+2038	25H Lance w/ validator	Glass front snack vendor 25 selection electronic Coinco	Parts/Service	4200898
+2038	25H Lance	Glass front snack vendor 25 selection electronic Coinco	Parts/Service	4020808
+2038	25H	Glass front snack vendor 25 selection electronic Mars or 4 price	Parts/Service	4020808
+2038	25H	Glass front snack vendor 25 selection - 2 price or 4 price	Parts/Service	 4020492
+20	Candy Vendor	Mechanical candy vendor	Service	Candy Vendor
